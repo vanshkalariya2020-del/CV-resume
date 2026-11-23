@@ -1,119 +1,89 @@
 CURRICULUM VITAE
+# Vansh Patel
+### QA / Software Testing Aspirant
 
-Personal Information
+📍 Patan, Gujarat, India  
+📞 +91 9925276638  
+✉️ vanshkalariya2020@gmail.com  
 
-Full Name: Patel Vansh Kiritbhai
-Mobile Number: +91 9925276638
-Email Address: vanshkalariya2020@gmail.com
-LinkedIn: https://www.linkedin.com/in/vanshpatel6638/
-GitHub: https://github.com/vanshkalariya2020-del
-Address: Patan, Gujarat, India
-
----
-
-Career Objective
-
-Motivated and detail-oriented Diploma Computer Engineering student seeking a Software Testing Internship opportunity to apply my knowledge of Manual Testing, SQL, and Software Development Life Cycle concepts. Passionate about Software Quality Assurance and eager to contribute to organizational success while continuously enhancing my technical and professional skills.
+[LinkedIn](https://linkedin.com/in/vanshpatel6638/) |
+[GitHub](https://github.com/vanshkalariya2020-del) |
+[Portfolio](https://vanshkalariya2020-del.github.io/Portfolio/)
 
 ---
 
-Research Interests
+## Professional Summary
 
-- Software Quality Assurance
-- Test Automation
+Diploma Computer Engineering student with practical exposure to software testing through academic projects and internship training. Skilled in manual testing, test case design, defect reporting, SQL database testing, and SDLC/STLC. Experienced in testing a web-based Movie Ticket Booking System with test documentation, RTM, and database validation. Familiar with Selenium WebDriver automation using Python and Pytest. Seeking a QA / Software Testing Internship to contribute to software quality and strengthen automation testing skills.
 
----
+## Technical Skills
 
-Education
+- **Testing:** Manual Testing, Functional Testing, Smoke Testing, Sanity Testing, Regression Testing, Exploratory Testing
+- **Test Design & Documentation:** Test Case Writing, Boundary Value Analysis (BVA), Equivalence Partitioning (EP), RTM, Bug Reporting, Defect Tracking
+- **Automation:** Selenium WebDriver, Python, Pytest, Page Object Model (POM)
+- **Database:** SQL, MySQL, Database Testing, Data Integrity Validation
+- **Tools:** Microsoft Excel, Git, GitHub
+- **Testing Fundamentals:** SDLC, STLC, Agile Methodology
 
-Diploma in Computer Engineering
+## Academic Projects
 
-- Institute: Shree Swaminarayan Polytechnic, Sector-22, Gandhinagar
-- University: Gujarat Technological University (GTU)
-- Current Semester: 5th Semester (Pursuing)
-- Expected Graduation Year: 2027
-- Academic Performance: 3rd Semester SPI – 9.14
+### Software Testing of Online Movie Ticket Booking System (MTBS)
+**Minor Project | QA & Software Testing**
 
----
+- Designed and executed **311 test cases** across Login, Manager, Cashier, and Database modules.
+- Recorded **232 passed and 79 failed** test cases during testing, achieving a **74.6% execution pass rate**.
+- Identified and documented **35 defects** through functional and database testing activities.
+- Prepared test cases, bug reports, and a Requirement Traceability Matrix (RTM).
+- Applied Boundary Value Analysis (BVA) and Equivalence Partitioning (EP) for test case design.
+- Performed SQL-based database validation to check data accuracy and integrity.
+- Gained exposure to Selenium WebDriver automation using Python and Pytest.
 
-Academic Projects / Experience
+**Technologies:** Python, Flask, MySQL, HTML, Bootstrap, JavaScript, jQuery
 
-Air Quality Prediction System
+### Software Testing of Air Quality Prediction Web Application
+**Academic / Training Project**
 
-Project Description:
-Developed an Air Quality Prediction project aimed at predicting air quality levels using historical environmental data. The project focused on analyzing pollution trends and generating predictive insights to support environmental awareness and decision-making.
+- Studied application functionality and prepared test scenarios and test cases.
+- Performed functional testing to validate application behavior against expected results.
+- Practiced software testing documentation and defect reporting.
 
-Responsibilities:
+## Internship
 
-- Collected and analyzed project requirements.
-- Performed testing and validation of project functionalities.
-- Identified defects and verified expected outcomes.
-- Prepared test scenarios and documented observations.
-- Collaborated with team members to ensure project quality.
+### Software Testing Intern / Internship Trainee
+**Neofruition Technosol Pvt. Ltd.**
 
----
+- Gained practical exposure to software testing processes and QA documentation.
+- Worked with test case preparation, test execution, and defect reporting.
+- Learned the application of SDLC and STLC in software testing activities.
 
-Work Experience
+## Education
 
-Software Testing Intern
+### Diploma in Computer Engineering
+**Shree Swaminarayan Polytechnic, Sector-22, Gandhinagar**  
+Gujarat Technological University (GTU)  
+**Expected Graduation:** 2027
 
-Persist IT Services Pvt. Ltd., Sector-11, Gandhinagar
+### SSC – Gujarat Secondary and Higher Secondary Education Board (GSEB)
+**Amba School for Excellence**  
+**Percentage:** 89.67%
 
-- Duration: 15 Days
-- Assisted in understanding software testing processes and quality assurance activities.
-- Participated in software validation and testing tasks.
-- Gained exposure to industry practices and real-time working environments.
-- Enhanced knowledge of testing methodologies and defect reporting.
+## Certifications & Training
 
----
-
-Courses
-
-- Software Testing
+- Software Testing Skill-Based Training
 - SQL Basics
-- Manual Testing
+- Manual Software Testing
 - Cloud Computing
 - Modern Web & AI
+- CCC / C-DAC Certification
 
----
-
-Technical Skills
-
-- Manual Testing
-- Test Case Writing
-- Bug Reporting
-- SDLC (Software Development Life Cycle)
-- STLC (Software Testing Life Cycle)
-- SQL
-- MS Excel
-- Git & GitHub
-
----
-
-Soft Skills
+## Professional Skills
 
 - Attention to Detail
-- Problem Solving
-- Team Collaboration
-- Adaptability
+- Analytical Thinking
+- Teamwork & Collaboration
+- Communication
 - Time Management
-- Quick Learner
-- Communication Skills
 
----
+## Languages
 
-Certifications
-
-- C-DAC Certification – C-DAC (2026)
-- CCC (Course on Computer Concepts)
-- MIC Certification
-- CAP Certification
-- Gemini AI Certification
-
----
-
-Languages Known
-
-- English
-- Hindi
-- Gujarati
+English | Hindi | Gujarati
