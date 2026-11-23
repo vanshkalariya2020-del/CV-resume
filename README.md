@@ -1,4 +1,4 @@
-CURRICULUM VITAE
+
 # Vansh Patel
 ### QA / Software Testing Aspirant
 
